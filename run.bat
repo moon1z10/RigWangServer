@@ -1,0 +1,3 @@
+RigWangServer.exe
+
+pause
