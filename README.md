@@ -2,7 +2,7 @@
 
 https://blue-arena.gitbook.io/rigwang/
 
-## RigWang Server code is now shared.
+## RigWang Server code is shared now.
 
 No more update will be happened.
 So I decided to share the server code to everybody.
